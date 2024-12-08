@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 22px 50px;
+    background-color: aqua;
+}
+
+.header__options {
+    display: flex;
+    align-items: center; 
+    gap: 60px;
+} 
